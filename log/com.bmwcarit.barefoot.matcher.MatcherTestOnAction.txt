@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.bmwcarit.barefoot.matcher.MatcherTestOnAction
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 164.729 s <<< FAILURE! - in com.bmwcarit.barefoot.matcher.MatcherTestOnAction
+matchBatchTest  Time elapsed: 164.728 s  <<< FAILURE!
+java.lang.AssertionError: Expected <{"x":140.9166931543194,"y":38.26855049653545}>, actual <{"x":140.91671727164103,"y":38.26848758529633}>.
+	at com.bmwcarit.barefoot.matcher.MatcherTestOnAction.compareMatchedResultWithTrueAnswer(MatcherTestOnAction.kt:167)
+	at com.bmwcarit.barefoot.matcher.MatcherTestOnAction.matchBatchTest(MatcherTestOnAction.kt:240)
+
