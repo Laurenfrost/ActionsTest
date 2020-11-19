@@ -36,3 +36,8 @@ jobs:
           echo "::warning::$WARNING_MESSAGE"
           echo "::debug::$DEBUG_MESSAGE"
           echo "::debug::this is a debug message."
+          
+      # Runs my Bash Script
+      - name: Bash Script
+        run: |
+          sh .github/workflows/test.sh
