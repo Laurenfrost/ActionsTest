@@ -141,6 +141,9 @@
 2020-11-16 09:01:39,198 WARN  [main] Matcher: HMM break - no state transitions
 2020-11-16 09:01:39,416 INFO  [main] Loader: Match part-00000-tid-9075788885691182394-0d93d3e4-69c4-4a21-91d5-e0b7385322bc-47825-1-c000.csv took 8719 ms
 2020-11-16 09:01:39,417 INFO  [main] Loader: Checking whether the Route is continuous.
+Annotation Error Message: 114514
+Annotation Warning Message: 114514
+Annotation Debug Message: 114514
 ]]></system-out>
   </testcase>
 </testsuite>
