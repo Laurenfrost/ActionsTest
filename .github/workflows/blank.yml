@@ -35,3 +35,4 @@ jobs:
           echo "::error::$ERROR_MESSAGE"
           echo "::warning::$WARNING_MESSAGE"
           echo "::debug::$DEBUG_MESSAGE"
+          echo ":debug::this is a debug message."
